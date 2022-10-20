@@ -8,4 +8,4 @@ A new way to create and explore blogs
 
 Issues which are security relevant should be disclosed privately to [[TODO]].
 
-Plz read our [security policy](./docs/SECURITY.md).
+Plz read our [security policy](SECURITY.md).
