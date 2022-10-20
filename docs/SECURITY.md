@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We release security patches for only the most recent version of our software.
+We release security patches for the most recent version of our software only.
 
 ## Reporting a Vulnerability
 
