@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-Only the latest version is supported.
+We release security patches for only the most recent version of our software.
 
 ## Reporting a Vulnerability
 
-Plz email the vulnerability to [[TODO]]
+Please report (suspected) security vulnerabilities to [[TODO]]. You will receive a response from us within 48 hours. If the issue is confirmed, we will release a patch as soon as possible depending on complexity.
